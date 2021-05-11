@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "2bd50ece6d825642cbc4cae686958dfde075f6e0",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-11 02:07:21",
+    "files": 1,
+    "merge": false,
+    "message": "link fixes\n"
+  },
+  "remote": "https://github.com/ropensci/brranching",
+  "pkg": "brranching"
+}
