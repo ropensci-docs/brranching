@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "efd089fd8218de75b1148d14db3e9926552fa705",
+    "author": "Luna Sare <sanchez.reyes.luna@gmail.com>",
+    "time": "2022-12-05 08:37:57",
+    "files": 1,
+    "merge": false,
+    "message": "updating version\n"
+  },
+  "repo": "https://github.com/ropensci/brranching",
+  "pkg": "brranching"
+}
